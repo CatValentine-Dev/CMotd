@@ -1,0 +1,4 @@
+name: CMotd
+version: 3.0
+main: com.bernardo.cmotd.main.Main
+description: CMotd e um Plugin para alterar o motd e personalizar.
